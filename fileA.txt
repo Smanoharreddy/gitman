@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello kushal!
+=======
+hello world!
+>>>>>>> 48fe0a78978321d2bb3ba801c45f48016985a5df
